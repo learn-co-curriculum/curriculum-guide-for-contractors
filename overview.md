@@ -50,8 +50,8 @@ tags: jquery, variable scope
 
 ## How Lessons are Organized
 
-Lessons can be organized into Units. While a unit can vary in length, at a minimum, they should contain at least two pieces of content (a Readme and a Lab). 
+Lessons can be organized into **Units**. While a unit can vary in length, at a minimum, they should contain at least two pieces of content (a Readme and a Lab). 
 
-A series of units can be combined to form a Topic. 
+A series of units can be combined to form a **Topic**. 
 
-One or more connected Topics create a Track.
+One or more connected Topics create a **Track**.
