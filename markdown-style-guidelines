@@ -1,6 +1,6 @@
 # English Style Guidelines:
 
-This section is a collection of English and Markdown writing notes. It includes syntax choices to improve clarity, corrections to common misuses, and tricks about rendering style in [Github-flavored markdown](https://help.github.com/categories/writing-on-github/).
+This section is a (somewhat random) collection of English writing notes. It includes syntax choices to improve clarity, corrections to common misuses, and tricks about rendering style in [Github-flavored markdown](https://help.github.com/categories/writing-on-github/).
  
 ## `##` Section headers
 
@@ -12,6 +12,7 @@ This section is a collection of English and Markdown writing notes. It includes 
 
 ###### `######` unused grey example header.
 
+**Note:** *It appears that the Learn.co markdown style currently displays all headers on the same "level".*
 
 Section headers are valuable for linking to specific spot in a readme or lesson. The URL can be grabbed by clicking on the `∞` ("link") button that shows itself to the left of a section header. This link can be passed to a student when answering a question.
 
@@ -142,6 +143,9 @@ When discussing number in exposition paragraphs, remember the English rule that 
 * discussing an integer value from your code? Put the digit `10` in a code snippet. 
 * discussing an abstract count that's relevant to your code? Do both, by presenting it as ten (10) or ten (`10`).
 
+### Invoke vs. Evoke
+
+Use the former. Avi uses "evoke" a lot but does so incorrectly. While some lexicons present definitions of this pair that overlap, "invoke" is the correct industry term when discussing methods.
 
 ### *exampla gratia* (e.g.) vs. *id est* (i.e.), vs. *et cetera* (etc.)
 
@@ -206,3 +210,6 @@ Hyperlink:
 
 Image link:
 `![Image name][reference_link]`
+
+
+
