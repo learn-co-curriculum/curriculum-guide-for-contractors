@@ -16,6 +16,10 @@ Section    | Topic
 4          | Labs
 4.1        |   [Structuring Your Lab Content](/structuring-your-lab-content.md)
 4.2        |   [Lab Templates](/lab-template.md)
+5          | [Style and Markdown Guidelines](/style-guidelines.md)
+6          | [Curriculum Creation and Review Workflow]
+
+
 
 
 
