@@ -43,13 +43,13 @@ Also here’s a quick list of verbs you can use depending on how you want studen
 
 2) All objectives are also measurable and/or have specific conditions under which they are met. What this means is be specific and let students know what the specific conditions or standards for the learning objectives.
 
-* Too general: *Add items to an array*  
+* Too general: *Add items to an array*
 * Better: *Add items to an array using the shovel method*
 
-* Too general: *Use the yield keyword*  
+* Too general: *Use the yield keyword*
 * Better: *Use the yield keyword to create methods that take blocks as parameters*
 
-* Too general: *Delete a table*  
+* Too general: *Delete a table*
 * Better: *Delete a table using the DROP TABLE command*
 
 
