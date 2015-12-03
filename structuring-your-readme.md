@@ -60,6 +60,7 @@ For example, metaphors that introduce new scenarios or characters are a great wa
 Here’s an example of metaphors that were used when explaining methods to students:
 
 **Metaphor** Methods are like Vending Machines. You put some sort of input in, and some magic happens, then output happens.
+
 **Metaphor** Methods can do a bit more because they don't always need input. When your mom says to get dressed, you then break that down into underwear, pants, shirt, socks, shoes. Now she doesn't need to repeat herself
 
 *Tip*: To show that moments of tension are happening in your lesson, use shorter words and sentences, especially as it rises to the climax where the solution(s) is/are presented. 
