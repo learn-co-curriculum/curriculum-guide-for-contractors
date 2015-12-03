@@ -95,3 +95,26 @@ Be friendly and accessible. Be informal and feel free to address your audience i
 Found any interesting articles, tutorials, or websites as you were putting your lesson together? Or further reading that might be beneficial to your students but doesn’t really need to be in the lesson itself? Add those at the bottom in a section titled Resources. 
 
 And as a resource for this article check out [this great piece](http://worrydream.com/LearnableProgramming) on writing specifically for programming curriculum.
+
+
+
+
+### Objectives
+
+Objectives are most likely the first thing a student will see when looking at a lab Readme. Oftentimes, your objectives can match the objectives from the preceding Readme if the lab is designed to test the skills and knowledge covered in that lesson. Other times, your objectives can be taken from variouse Readmes if the lab is designed to be more cumulative and expansive.
+
+### Readme Content
+
+A good Readme accomplishes the following:
+
+* The student should know right away what the lab is about. Be sure to clearly introduce the lesson right away.
+* Lists the tasks the student must complete to satisfy the lab.
+  * These instructions should be clear enough without giving away too much to the student.
+* Gives deliverables (for example, which tests must be passed, or which tests need to be finished by the student)
+* Has helpful, short resources, which could be anything you think might help and enhance the student's learning (examples: blog posts, conference talks, chapters or sections from programming books from our library).
+* Is clearly written, and very explicit: avoid words like "it", "this", "these", etc. Take nothing for granted in your explanation of new topics.
+  * If this lab is introducing something new (something that has not be covered yet in lecture), the Readme can be more handholding in regards to the new material. In general, however, avoid covering a lot of new information in a lab as new content should be reserved for the Readmes. 
+* Bonuses, if applicable:
+  * A screenshot of the desired outcome
+  * a demo (if it's a Rails app, think about deploying your solution to Heroku; the flatiron-rails gem makes this easy)
+  * a screencast explaining an important concept pertaining to the lab
