@@ -6,11 +6,11 @@ Every Readme should start off with an overview. This is a 1-2 sentence summary o
 
 For both students and instructors, this will give them a quick, brief idea of the lesson without having to read the whole text. 
 
-## Learning Objectives:
+## Learning Objectives
 
 Following your overview, list the objectives of your lesson. (If you’re creating the entire course or unit from scratch and have done a high level outline, the objectives will connect to and build from the action items/skills/knowledge that you listed for each of your lessons.) 
 
-Objectives should be a bulleted list that finishes the sentence "Students will be able to..." 
+Objectives should be a bulleted list that finishes the sentence *"Students will be able to..."*
 
 Let’s take a closer look at learning objectives.
 
@@ -32,24 +32,27 @@ Avoid conceptual words like “learn, know, appreciate, understand” because th
 Here’s a [helpful link](https://www.clinton.edu/curriculumcommittee/listofmeasurableverbs.cxml) to verbs to consider when writing learning objectives.
 
 Also here’s a quick list of verbs you can use depending on how you want students to interact with the content:
-For ***Knowledge/Remembering*** of the content: define, list, recognize
-For ***Comprehension/Understanding*** of the content: characterize, describe, explain, identify, locate, recognize, sort
-For ***Application/Applying*** of the content: choose, demonstrate, implement, perform
-For ***Analysis/Analyzing*** of the content: analyze, categorize, compare, differentiate
-For ***Evaluation/Evaluating*** of the content: assess, critique, evaluate, rank, rate
-For ***Synthesis/Creating of the content***: construct, design, formulate, organize, synthesize
-([Source](http://www.library.illinois.edu/infolit/learningoutcomes.html)) 
+* For ***Knowledge/Remembering*** of the content: define, list, recognize
+* For ***Comprehension/Understanding*** of the content: characterize, describe, explain, identify, locate, recognize, sort
+* For ***Application/Applying*** of the content: choose, demonstrate, implement, perform
+* For ***Analysis/Analyzing*** of the content: analyze, categorize, compare, differentiate
+* For ***Evaluation/Evaluating*** of the content: assess, critique, evaluate, rank, rate
+* For ***Synthesis/Creating of the content***: construct, design, formulate, organize, synthesize
+                                                            ([Source](http://www.library.illinois.edu/infolit/learningoutcomes.html)) 
+
 
 2) All objectives are also measurable and/or have specific conditions under which they are met. What this means is be specific and let students know what the specific conditions or standards for the learning objectives.
 
-Too general: *Add items to an array*
-Better: *Add items to an array using the shovel method*
+* Too general: *Add items to an array*
+* Better: *Add items to an array using the shovel method*
 
-Too general: *Use the yield keyword*
-Better: *Use the yield keyword to create methods that take blocks as parameters*
 
-Ok: *Delete a table*
-Better: *Delete a table using the DROP TABLE command*
+* Too general: *Use the yield keyword*
+* Better: *Use the yield keyword to create methods that take blocks as parameters*
+
+
+* Too general: *Delete a table*
+* Better: *Delete a table using the DROP TABLE command*
 
 
 ### Any Other Tips on Writing Objectives? 

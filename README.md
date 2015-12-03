@@ -10,7 +10,7 @@ Section    | Topic
 1          | [What is Curriculum on Learn](/overview.md)
 2          | [Developing Your Course Outline] (/developing-your-course-outline.md)
 3          | Readmes
-3.1        |   [Your Overview and Learning Objectives]
+3.1        |   [Your Overview and Learning Objectives](/learning-objectives.md)
 3.2        |   [Structuring Your Readme Content](/qualities-of-good-lab.md)
 3.3        |   [Readme Templates](/lab-templates.md)
 4          | Labs
