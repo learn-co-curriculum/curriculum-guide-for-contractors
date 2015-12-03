@@ -19,7 +19,7 @@ When you’re setting the stage, begin with something that the student already k
 
 1) *How does Twitter have different pages for each of its 300 million users? How can AirBnB support over 40 million guests with over 1.5 million listings worldwide? All of this is possible because of web applications.*
 
-2) Imagine needing to build a method that greets a person. We could code something like this:
+2) *Imagine needing to build a method that greets a person. We could code something like this:*
 
 ```ruby
 def greeting
@@ -27,9 +27,9 @@ def greeting
 end
 ```
 
-This method, when called, will print out to the terminal, the string `"Hi, Ruby programmer!"`.
+*This method, when called, will print out to the terminal, the string `"Hi, Ruby programmer!"`.*
 
-As amazing as this method is, it's still pretty literal. It hard-codes, or directly specifies, name of the person we are greeting as `"Ruby programmer"`. If we wanted to build a method that can greet *anyone*, even Python programmers, we'd have to re-implement the majority of the original logic from `greeting`:
+*As amazing as this method is, it's still pretty literal. It hard-codes, or directly specifies, name of the person we are greeting as `"Ruby programmer"`.* *If we wanted to build a method that can greet anyone, even Python programmers, we'd have to re-implement the majority of the original logic from `greeting`:*
 
 ```ruby
 def greeting_python
@@ -37,9 +37,9 @@ def greeting_python
 end
 ```
 
-Notice the only things that changed are the method name and the language name `"Python"` in the body of the method. It's as though that information should be specifiable or configurable when you call the method, otherwise we'd have to build every permutation of the method. In other words, we'd have to re-write the method for every single person we want to greet. We want our method to be more dynamic, more abstract, *more re-usable*. It should maintain the elements that will always be the same, no matter who we greet, and allow us to change, or swap out, the name of the person we are greeting. This is dynamic, as opposed to "hard-coded". 
+*Notice the only things that changed are the method name and the language name `"Python"` in the body of the method. It's as though that information should be specifiable or configurable when you call the method, otherwise we'd have to build every permutation of the method. In other words, we'd have to re-write the method for every single person we want to greet. We want our method to be more dynamic, more abstract, more re-usable. It should maintain the elements that will always be the same, no matter who we greet, and allow us to change, or swap out, the name of the person we are greeting. This is dynamic, as opposed to "hard-coded".*
 
-Good news, that's exactly what method arguments (also called parameters) are for.*
+*Good news, that's exactly what method arguments (also called parameters) are for.*
 
 By presenting a known idea, you can move to presenting the conflict. This tension builds interest and will motivate the student to continue reading. You’re also presenting the “Why” of the lesson. The “Why” is the reason we’re about to cover the following concepts in the lessons and this too will motivate students to continue reading. 
 
