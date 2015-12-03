@@ -7,8 +7,8 @@ This guide is a WIP; feel free to add / contribute to it.
 ## Table of Contents
 Section    | Topic
 -----------|-------------------------------------------
-1          | [What is Curriculum on Learn](/where-things-live.md)
-2          | [Developing Your Course Outline]
+1          | [What is Curriculum on Learn](/overview.md)
+2          | [Developing Your Course Outline] (/developing-your-course-outline.md)
 3          | Readmes
 3.1        |   [Your Overview and Learning Objectives]
 3.2        |   [Structuring Your Readme Content](/qualities-of-good-lab.md)
