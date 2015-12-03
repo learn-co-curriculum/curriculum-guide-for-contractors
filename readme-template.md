@@ -1,11 +1,11 @@
 This Readme is a summary of the technical markdown expectations for the `README.md` document files in lesson repositories. 
 
-As a remninder, all repositories **must** have:
+As a reminder, all repositories **must** have:
 
-* a `.learn` file to hold Learn.co YAML tags,
-* a `LICENSE.md` file for public-facing content, and
-* a `README.md` that contains the content of the reading.
+* a `.learn` file 
+* a `LICENSE.md` file for public-facing content
 * a `CONTRIBUTING.md` that outlines contribution guidelines 
+* a `README.md` that contains the content of the reading
 
 *Use the gem discussed in [Section 1](/overview.md) to add .learn, License, and Contributing files.*
 
@@ -37,7 +37,9 @@ A 1-2 sentence summary of what will be covered in the Reading.
 
 ## `##` Exposition
 
-**Present the conflict**. Provide a brief introduction that explains why we are learning what we are learning (i.e. the "value proposition"). Give a real-world or pseudo-real-world example of using the technology/skill being discussed. Look at the "Why do we need enumerators?" section of [Ruby — Enumerators](https://github.com/learn-co-curriculum/enumerators-readme) reading as a good example
+Remember to create a narrative that has a beginning, middle, and end.
+
+Provide a brief introduction that explains why we are learning what we are learning. Give a real-world or pseudo-real-world example of using the technology/skill being discussed. 
 
 Discuss the topic of the reading. Break into sections and sub-sections as appropriate to help with the reader's orientation with the material and future referencing.
 
