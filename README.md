@@ -1,4 +1,4 @@
-# Curriculum Management
+# Curriculum Guide and Contractors
 
 This guide will explain how our curriculum works, tips on how to develop lessons and labs, as well as the mechanics and formatting for various pieces of curriculum content. 
 
