@@ -15,8 +15,7 @@ Section    | Topic
 3.3        |   [Readme Templates](/readme-template.md)
 4          | Labs
 4.1        |   [Structuring Your Lab Content](/structuring-your-lab-content.md)
-4.2        |   [Naming and Tag Conventions](lab-tagging-standardization.md)
+4.2        |   [Lab Templates](/lab-template.md)
 
 
 
-<a href='https://learn.co/lessons/curriculum-guide' data-visibility='hidden'>View this lesson on Learn.co</a>
