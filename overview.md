@@ -1,4 +1,4 @@
-## What Do We Mean When We Say Curriculum? 
+## What Do We Mean By Curriculum? 
 
 Every individual piece of curriculum is called a Lesson. 
 
