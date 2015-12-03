@@ -1,98 +1,6 @@
-# Reading Style Guide
-
-This Readme is a summary of the expectations for the `README.md` document files in Learn.co curriculum repositories. 
-
-All repositories **must** have:
-
-* a `.learn` file to hold Learn.co YAML tags,
-* a `LICENSE.md` file for public-facing content, and
-* a `README.md` that contains the content of the readings lesson or the instructions for accomplishing the lab.
-* a `CONTRIBUTING.md` that outlines contribution guidelines (see example [here](https://github.com/learn-co-curriculum/conditional-readme/blob/master/CONTRIBUTING.md))
-
-# Readme Outline:
-
-Readmes, or Readings, are defined as repositories that can contain no additional interactive files beyond the `README.md` file, which may or may not contain quiz or REPL content for use through Learn.co .
-
-##### Examples 
-
-Reading: 
-
-  * [Ruby — Object Attributes And Methods](https://github.com/learn-co-curriculum/ruby-object-attrs-readme)
-  * [Objc — Sorting Basics](https://github.com/learn-co-curriculum/reading-ios-sorting-basic)
-
-Quiz:
-
-  * [Ruby — Basic OO Quiz](https://github.com/learn-co-curriculum/ruby-basic-oo-quiz) — make sure to look at the readme in Markdown to get the syntax for the quiz right, otherwise it won't be a quiz!
-
-REPL:
-
-  * [Ruby — Enumerator Coding Challenge](https://github.com/learn-co-curriculum/enumerator-coding-challenge) — make sure to look at the readme in Markdown!
-  
-#### Quiz and REPL documentation
-
- * https://github.com/flatiron-labs/learn.co-CommonMark
- * includes additional sample quizzes and repls
-
-# `#` Title 
-
-( The reading's name should be a descriptive phrase about its content. )
-
-## `##` Overview
-
-A 1-2 sentence summary of what will be covered in the Reading. 
-
-## `##` Objectives
-
- 1. Every reading should have a list of objectives that functions as a summary outline.
- 2. It should be a numbered list, in most cases with around 3 to 8 items.
- 3. And written in the present-imperative tense. Overusing the verbs "learn", "recognize", "know", and "understand" should be avoided (e.g. good: "Run the test suite." vs bad: "Learn to run a test." or "Running tests." or "Know how to run a test.").
- 4. Objectives should be general and focus on the big picture (e.g. good: "Gain a deeper understanding of RSpec testing", or "Practice defining methods with arguments" vs. bad: "Make a method `speaking_grandma`, that takes in a default argument"). 
-
-## `##` Exposition
-
-**Present the conflict**. Provide a brief introduction that explains why we are learning what we are learning (i.e. the "value proposition"). Give a real-world or pseudo-real-world example of using the technology/skill being discussed. Look at the "Why do we need enumerators?" section of [Ruby — Enumerators](https://github.com/learn-co-curriculum/enumerators-readme) reading as a good example
-
-Discuss the topic of the reading. Break into sections and sub-sections as appropriate to help with the reader's orientation with the material and future referencing.
-
-Be opinionated! There are many ways to solve a problem with code and there are many ways to implement certain technologies, methods, etc. There are however, *best* ways to utilize these technologies, methods, techniques and we should be clear about that when we present multiple options. 
-
-# Lab Outline:
-
-Labs are the category of repositories that include some form coding practice. This could be:
-
-* a **spec lab** that involves writing code to pass tests,
-* a **Code-Along** that does not involve independent problem solving to pass tests, but rather gives heavy-handed direction to write specific lines of code.
-
-##### Examples
-
-Spec Lab:
-
-  * [Objc — WWDC Badges With Methods](https://github.com/learn-co-curriculum/wwdc-badges-methods)
-
-Code-Along:
-
-  * [Objc — Speaking Grandma](https://github.com/learn-co-curriculum/objc-speaking-grandma)
-
-
-# `#` Title
-
-## `##` Objectives
-
-## `##` Introduction
-
-Discuss the premise, or scenario of the lab.
-
-## `##` Instructions
-
-A numbered list of steps to take when solving the lab. This section can include a leading paragraph if it's content does not fit into the numerical order (i.e. "After forking and cloning this lab, open the `*.xcworkspace` file.").
-
-## `##` Advanced (optional)
-
-Instructions for the advanced challenge.
-
 # English Style Guidelines:
 
-This section is a (somewhat random) collection of English writing notes. It includes syntax choices to improve clarity, corrections to common misuses, and tricks about rendering style in [Github-flavored markdown](https://help.github.com/categories/writing-on-github/).
+This section is a collection of English and Markdown writing notes. It includes syntax choices to improve clarity, corrections to common misuses, and tricks about rendering style in [Github-flavored markdown](https://help.github.com/categories/writing-on-github/).
  
 ## `##` Section headers
 
@@ -104,7 +12,6 @@ This section is a (somewhat random) collection of English writing notes. It incl
 
 ###### `######` unused grey example header.
 
-**Note:** *It appears that the Learn.co markdown style currently displays all headers on the same "level".*
 
 Section headers are valuable for linking to specific spot in a readme or lesson. The URL can be grabbed by clicking on the `∞` ("link") button that shows itself to the left of a section header. This link can be passed to a student when answering a question.
 
@@ -235,9 +142,6 @@ When discussing number in exposition paragraphs, remember the English rule that 
 * discussing an integer value from your code? Put the digit `10` in a code snippet. 
 * discussing an abstract count that's relevant to your code? Do both, by presenting it as ten (10) or ten (`10`).
 
-### Invoke vs. Evoke
-
-Use the former. Avi uses "evoke" a lot but does so incorrectly. While some lexicons present definitions of this pair that overlap, "invoke" is the correct industry term when discussing methods.
 
 ### *exampla gratia* (e.g.) vs. *id est* (i.e.), vs. *et cetera* (etc.)
 
@@ -302,8 +206,3 @@ Hyperlink:
 
 Image link:
 `![Image name][reference_link]`
-
-
-
-
-
