@@ -46,8 +46,10 @@ Also here’s a quick list of verbs you can use depending on how you want studen
 * Too general: *Add items to an array*
 * Better: *Add items to an array using the shovel method*
 
+
 * Too general: *Use the yield keyword*
 * Better: *Use the yield keyword to create methods that take blocks as parameters*
+
 
 * Too general: *Delete a table*
 * Better: *Delete a table using the DROP TABLE command*
