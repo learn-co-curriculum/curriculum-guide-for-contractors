@@ -30,9 +30,9 @@ Discuss the premise, or scenario of the lab.
 A numbered list of steps to take when solving the lab. This section can include a leading paragraph if it's content does not fit into the numerical order (i.e. "After forking and cloning this lab, open the `*.xcworkspace` file.").
 
 
-## Lab Templates
+# Lab Templates
 
-## Lab Templates
+## Templates
 
 * fundamental-ruby
 * command-line
