@@ -45,9 +45,9 @@ By presenting a known idea, you can move to presenting the conflict. This tensio
 
 This can be done in a couple of ways, as shown in the above examples. 
 
-If you started off with a concept that a student already has learned, then attempt or explain how you can solve a given problem using those concepts. What will usually happen is that the solution will either be impossible or too unwieldy as you can tell in the second example above. After that, introduce the new information that’ll help resolve this conflict. 
+* If you started off with a concept that a student already has learned, then attempt or explain how you can solve a given problem using those concepts. What will usually happen is that the solution will either be impossible or too unwieldy as you can tell in the second example above. After that, introduce the new information that’ll help resolve this conflict. 
 
-If you started with a general idea that a student might know outside of the content presented in earlier lessons, then present the problem as a question. After that, introduce the new information that’ll help resolve this problem. This is how the first example above handled it. 
+* If you started with a general idea that a student might know outside of the content presented in earlier lessons, then present the problem as a question. After that, introduce the new information that’ll help resolve this problem. This is how the first example above handled it. 
 
 In general, this kind of rhythm and tension lets students feel more emotionally invested in the story and will help them remember and recall information better. 
 
