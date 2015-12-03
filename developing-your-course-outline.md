@@ -1,3 +1,5 @@
+# Your Course Outline 
+
 You’re an expert in your topic. You’ve worked professionally in it and might even have published books or articles about it as well. And that’s why we’re working with you to develop curriculum!
 
 But creating a course, writing an outline, and developing your syllabus for students on the topic that you know so well requires you to think differently and from the perspective of a learner. 
@@ -107,4 +109,4 @@ Do your units and lessons give a complete sense of the skills that a student wil
 How can you ensure that the flow of your Readmes and Labs keep students engaged and challenged? For example, with more difficult concepts or units, how can you keep a student’s momentum going without making the labs and information presented too easy? 
 
 ## Next Steps
-As you’re figuring out this high level outline for your course, keep track of it in a spreadsheet that follows this simple spreadsheet template. 
+As you’re figuring out this high level outline for your course, keep track of it in a spreadsheet that follows [this simple spreadsheet template](https://docs.google.com/spreadsheets/d/1k3KrNUMzR_5ewfi2HStrxxnJ3hBryxn8gJKMdIh8lrM/edit#gid=0&vpid=A1). 
