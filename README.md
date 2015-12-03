@@ -14,7 +14,7 @@ Section    | Topic
 3.2        |   [Structuring Your Readme Content](/structuring-your-readme.md)
 3.3        |   [Readme Templates](/readme-template.md)
 4          | Labs
-4.1        |   [Naming and Tag Conventions](lab-tagging-standardization.md)
+4.1        |   [Structuring Your Lab Content](/structuring-your-lab-content.md)
 4.2        |   [Naming and Tag Conventions](lab-tagging-standardization.md)
 
 
