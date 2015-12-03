@@ -5,10 +5,11 @@
 
 ## It’s All About the Story
 
-Now that you have all your objectives, you’re ready to start presenting new material right? Well not quite yet. Readmes aren’t just a compilation of facts, but instead depend on the overarching narrative within which your facts are contained.
+Now that you have all your objectives, you’re ready to start presenting new material right? Well not quite yet. Readmes aren’t just a compilation of facts, but instead depend on **the overarching narrative within which your facts are contained**.
 
 Think of your Readme as a story that follows a narrative arc of beginning, middle, and end. In other words, set the stage, show how the conflict emerges, work through the conflict, and end with presenting the new reality and tying up any loose ends.
 
+[Image] [https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjWALDscSYsCUFsGr8lZtGl2RBUlxQO3wfSjmhI8KZrBWRvH5J]
 
 
 
