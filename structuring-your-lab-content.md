@@ -40,6 +40,13 @@ Try to keep your labs focused to one lesson. For Rails and more complex topics, 
 
 Your lab's Readme is the first point of reference about your lab to a student. And, if you're making a tutorial or resource that isn't a full lab, your Readme is everything.
 
+Your Readme sets the student up for what scanario or context in which they're building. It's important to connect the lab with real world context or actual situations. Context provides a reason for a student to struggle. Once they know the purpose of the skill they're learning, they can become motivated by the things they can build with that skill.
+
+If you're teaching methods, talk about a situation in which you'd want the same action to take place over and over again - like Facebook sending happy birthday emails to every user on their birthday.
+
+If you're teaching arrays, an example where you'd want to store a group of objects and do the same action to each item in that group.
+
+
 ## Instructions
 
 Lab instructions should err on the side of overly-specific. The worst thing in the world is to have a student confused and struggling with material because the instructions are unclear. We would rather give the student more instructions and risk annoyance over too much reading, than too little. If you need a student to create a database table, tell them exactly what columns the table should have. They shouldn't have to guess. It's not giving it away to tell them what to build; they still have to figure out **how** to build it.
@@ -51,6 +58,19 @@ Instructions should be written in order of how to solve the problem. Really big 
 
 Every lab should have a solution branch. Your solution branch should have a clean, understandable solution that other instructors can refer to for lab reviews and helping students. Sometimes, students might want the solution pushed up to them after they've completed the lab, so it's important that the solution is straightforward.
 
+## Regular Lab vs. Stretch Lab
+
+A normal lab should test the student on exactly what they just learned in the lesson or code along. Every piece to the solution should be able to be referenced in the previous lesson. They only lines of code they should have to write are the skills they should be practicing.
+
+A stretch lab is a lab that requires students to put some of the pieces together themselves. The point is that a student should be far removed from their comfort zone during a stretch lab. We should be stretching the boundaries of their learning. Several components of a stretch lab:
+
++ Provide less instructions
++ Tests only cover the big picture and not each individual line of code they have to write
++ Provide less starter code.
++ Require a student to Google some information to complete the lab
++ Incorporate passed a student has learned to pass all the tests
+
+
 ## How to Approach Building A Lab
 
 Sometimes it can feel daunting to approach building a lab. There are many ways to do it, none more correct that the other.
@@ -59,6 +79,9 @@ If you need a little help getting started, we recommend you start at the end and
 
 All work should be done on a `work-in-progress` branch and a `solution` branch.
 
+## Extras
 
+We always want to make sure our students are having fun, and a lot of that can be achieved through the tone of the lab. Here are some ways to achieve that:
 
-
++ The lab topic or intro can be humorous
++ A good gif
