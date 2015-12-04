@@ -4,7 +4,7 @@ You've written a phenomenal lesson, and now it's time to test your students to s
 
 ## Purpose of A Lab
 
-The purpose of a lab if for students to be practicing what is taught in a lecture or through reading. Students become developers when they are working on labs.
+The purpose of a lab is for students to practice what is taught in a lecture or through a reading. Students become developers when they are working on labs.
 
 Because of this, we want our labs to be challenging but applicable. Students should feel pushed intellectually with each lab, but not overwhelmed.
 
@@ -19,6 +19,8 @@ Naming convention is helpful for instructors to at a glance know what a lab is c
 * "SQL-Library-lab"
 * "Sinatra-Nested-Forms-lab"
 * "js-oo-task-list-lab"
+
+Also notice all the examples above end with `lab`. This helps us distinguish a lab from a lesson just by the repository name.
 
 ## Content
 
@@ -40,9 +42,9 @@ Your lab's Readme is the first point of reference about your lab to a student. A
 
 ## Instructions
 
-Lab instructions should err on the side of overly-specific. The worst thing in the world is having a student confused and struggling with material because the instructions are unclear. We would rather give the student more instructions and risk annoyance over too much reading, than too little. If you need a student to create a database table, tell them exactly what columns the table should have. They shouldn't have to guess. It's not giving it away to tell them what to build; they still have to figure out the **how**.
+Lab instructions should err on the side of overly-specific. The worst thing in the world is to have a student confused and struggling with material because the instructions are unclear. We would rather give the student more instructions and risk annoyance over too much reading, than too little. If you need a student to create a database table, tell them exactly what columns the table should have. They shouldn't have to guess. It's not giving it away to tell them what to build; they still have to figure out **how** to build it.
 
-Instructions should be written in order of how to solve the problem. Really big labs or labs that cover complex topics can feel really overwhelming. Students learn the patterns of how to approach problems by reading instructions in the order in which they should tackle the problem.
+Instructions should be written in order of how to solve the problem. Really big labs or labs that cover complex topics can feel really overwhelming. Students learn the patterns of how to approach larger projects by reading instructions in the order in which they should tackle the problem.
 
 
 ## Solution Branch
@@ -53,10 +55,10 @@ Every lab should have a solution branch. Your solution branch should have a clea
 
 Sometimes it can feel daunting to approach building a lab. There are many ways to do it, none more correct that the other.
 
-If you need a little help getting started, we recommend you start at the end and work your way forward. Start by build the solution you want your students to create in the lab, then build the tests that test the skills you want the lab to practice.
-
-From there, write your readme with clearly stated objectives and instructions.
+If you need a little help getting started, we recommend you start at the end and work your way forward. Start by build the solution you want your students to create in the lab, then build the tests that test the skills you want the lab to practice.From there, write your Readme with clearly stated objectives and instructions.
 
 All work should be done on a `work-in-progress` branch and a `solution` branch.
+
+
 
 
