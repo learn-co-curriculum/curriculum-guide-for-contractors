@@ -89,7 +89,7 @@ Our voice when writing curriculum is a reflection of our core values. We are amb
 
 Don’t be afraid to be passionate and confident. Don’t shy away from being smart but always remember to be thoughtful.
 
-Be friendly and accessible. Be informal and feel free to address your audience in the second person. Be silly! Use gifs, make jokes, and be clever and cheeky at times.  But avoid first person singular (“I”) and always use the first-person singular (“We”). 
+Be friendly and accessible. Be informal and feel free to address your audience in the second person. Be silly! Use gifs, make jokes, and be clever and cheeky at times.  But avoid first person singular (“I”) and always use the first-person plural (“We”). 
 
 ## Anything Else? 
 Found any interesting articles, tutorials, or websites as you were putting your lesson together? Or further reading that might be beneficial to your students but doesn’t really need to be in the lesson itself? Add those at the bottom in a section titled Resources. 
