@@ -25,7 +25,7 @@ type:
   - lab
 ```
 
-It's important to note the `:` after the grouping name. It's equally important to not the space between the `-` and the tag or language name. Without this space, the piece of  curriculum can't be added to track on Learn.co.
+This file is written using YAML, a human readable data serialization format. You can read more about YAML [here](http://docs.ansible.com/ansible/YAMLSyntax.html). It's important to note the `:` after the grouping name. It's equally important to not the space between the `-` and the tag or language name. Without this space, the piece of  curriculum can't be added to track on Learn.co.
 
 ### Tags
 
