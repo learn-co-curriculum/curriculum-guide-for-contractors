@@ -4,9 +4,9 @@ Labs are the category of repositories that include some form coding practice. Th
 
 * a **spec lab** that involves writing code to pass tests
 
-* a **Code-Along** that does not involve independent problem solving to pass tests, but rather gives heavy-handed direction to write specific lines of code. Code-Alongs however should also include tests and studets are still expected to pass them even if you're telling them exactly how to do so. In many cases, a Code-Along can take the place of a Readme that would cover the same topic. 
+* a **Code-Along** that does not involve independent problem solving to pass tests, but rather gives heavy-handed direction to write specific lines of code. Code-Alongs however should also include tests and students are still expected to pass them even if you're telling them exactly how to do so. In many cases, a Code-Along can take the place of a Readme that would cover the same topic. 
 
-##### Examples
+##Examples
 
 Spec Lab:
 
@@ -16,23 +16,29 @@ Code-Along:
 
   * [Objc — Speaking Grandma](https://github.com/learn-co-curriculum/objc-speaking-grandma)
 
+## Format of a Lab Readme
+### `#` Title
+The title comes first. It should be the name of the repository.
 
-# `#` Title
+### `##` Objectives
+Objectives Should immediately follow the title of the lab. Students should be able to readily find and define the skills they should be expected to practice or learn by completing the lab.
 
-## `##` Objectives
+### `##` Introduction
 
-## `##` Introduction
+The introduction should discuss the premise, or scenario of the lab. It should set the stage for the work the students will be doing.
 
-Discuss the premise, or scenario of the lab.
+### `##` Instructions
 
-## `##` Instructions
+Instructions should be a numbered list of steps to take when solving the lab. This section can include a leading paragraph if it's content does not fit into the numerical order (i.e. "After forking and cloning this lab, open the `*.xcworkspace` file.").
 
-A numbered list of steps to take when solving the lab. This section can include a leading paragraph if it's content does not fit into the numerical order (i.e. "After forking and cloning this lab, open the `*.xcworkspace` file.").
+Instructions should be be specific. Students shouldn't have to make assumptions about what to do based on the instructions, they should immediately know. 
+
+Instructions should be written in order of how to approach the lab. If you need to build a class before you can define any methods, the instructions should lead the student to build the class first.
 
 
-# Lab Templates
+## Lab Templates
 
-## Templates
+### Templates
 
 * fundamental-ruby
 * command-line

@@ -1,5 +1,6 @@
 # Curriculum Guide for Contractors
 
+
 This guide will explain how our curriculum works, tips on how to develop lessons and labs, as well as the mechanics and formatting for various pieces of curriculum content. 
 
 This guide is a WIP; feel free to add / contribute to it. 
@@ -22,4 +23,7 @@ Section    | Topic
 
 
 
+
+
+<a href='https://learn.co/lessons/curriculum-guide' data-visibility='hidden'>View this lesson on Learn.co</a>
 
