@@ -13,7 +13,7 @@ Think of your Readme as a story that follows a narrative arc of beginning, middl
 
 
 
-Let’s take a closer look at each of these stages:
+We'll take a closer look at each of these sections. For now in this Readme, we'll start with the beginning and setting the stage. 
 
 When you’re setting the stage, begin with something that the student already knows. This can be a concept you can assume they know from previous lessons. Or it can be a general idea that you can also assume they know from their day-to-day lives. The ultimate goal is to hook your audience and the best way to do that is with a known idea.  Below are two examples:
 
