@@ -52,6 +52,25 @@ Resources holds an integer, the number of resources listed in the lesson or lab.
 
 The type section lets us mark the category of curriculum. Is it a lab? A code-along? A lesson?
 
+### Important Additional Keys
+
+Most of the entries a `.learn` are just notes. There are a few, however, that will trigger special behaviors on Learn — namely, triggering assessment mode and triggering project mode.
+
+#### Live Assessments
+
+To turn a lesson into a live assessment, simply assign a truthy value to a `live_assessment` key:
+
+``` yaml
+live_assessment: 1
+```
+
+#### Project Mode
+
+To turn a lesson into a project, simply assign a truthy value to a `project` key:
+
+``` yaml
+project: 1
+```
 
 ## Adding An Image or Gif
 
@@ -63,7 +82,7 @@ But you can't just find a great image of a baby hugging a puppy online and use t
 ![Baby Hugging Puppy](http://ak-hdl.buzzfed.com/static/enhanced/webdr01/2013/4/9/17/enhanced-buzz-29534-1365542139-15.jpg)
 ```
 
-Because what if ak-hd.buzzfeed.com took down that amazing image?! We'd suddenly have a broken image in our curriculum. 
+Because what if ak-hd.buzzfeed.com took down that amazing image?! We'd suddenly have a broken image in our curriculum.
 
 So instead of taking the risk, we like to play it safe and upload any images or gifs to Amazon Web Services.
 
@@ -98,4 +117,3 @@ So instead of taking the risk, we like to play it safe and upload any images or 
 11. Make sure you click save to save the changes you've made. You can find the AWS URL for the image right above the permissions. You can copy that URL and use it anywhere in your markdown!
 
 ![AWS URL](https://s3.amazonaws.com/learn-verified/aws-url.png)
-
