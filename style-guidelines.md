@@ -27,11 +27,12 @@ NSString *block = @"block.";
 NSString *codeBlock = [code stringByAppendingString:block];
 ```
 
-"Code blocks" are declared by wrapping in triple back-ticks ( \`\`\` ). The opening triple back-tick should be followed with a language declaration appropriate to the contents of the code block:
+"Code blocks" are declared by wrapping in triple back-ticks ( ``` ). The opening triple back-tick should be followed with a language declaration appropriate to the contents of the code block:
 
 `bash` : Bash, CLI output  
 `ruby` : Ruby  
 `objc` : Objective-C  
+`swift`: Swift 
 (none) : LLDB console output
 
 The example code block above is written in markdown with the following syntax:
