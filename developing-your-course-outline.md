@@ -11,7 +11,7 @@ What is the final project that they will be working on at the very end of your c
 
 Map out your final project. List the requirements and what students should be expected to do to build it. 
 
-In this final projects, students will be able to:
+In this final project, students will be able to:
 1.
 2.
 3.
