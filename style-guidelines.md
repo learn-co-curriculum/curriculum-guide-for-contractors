@@ -1,6 +1,6 @@
 # English Style Guidelines:
 
-This section is a collection of English and Markdown writing notes. It includes syntax choices to improve clarity, corrections to common misuses, and tricks about rendering style in [Github-flavored markdown](https://help.github.com/categories/writing-on-github/).
+This section is a collection of English and Markdown writing notes. It includes syntax choices to improve clarity, corrections to common misuses, and tricks about rendering style in [GitHub-flavored markdown](https://help.github.com/categories/writing-on-github/).
  
 ## `##` Section headers
 
@@ -29,11 +29,12 @@ NSString *codeBlock = [code stringByAppendingString:block];
 
 "Code blocks" are declared by wrapping in triple back-ticks ( ``` ). The opening triple back-tick should be followed with a language declaration appropriate to the contents of the code block:
 
-`bash` : Bash, CLI output  
-`ruby` : Ruby  
-`objc` : Objective-C  
-`swift`: Swift 
-(none) : LLDB console output
+* `bash` : Bash, CLI output
+* `ruby` : Ruby
+* `js`   : JavaScript
+* `objc` : Objective-C
+* `swift`: Swift
+* (none) : LLDB console output
 
 The example code block above is written in markdown with the following syntax:
 
@@ -133,18 +134,18 @@ When writing an "in-line quote", punctuation should remain outside the phrase "u
 
 2 — You can also manually number your list if the automatic numbering gets broken because of a code-snippet.
 
-But, keep a consistent style. And generally avoiding making a list with only one point. Consider using an aside
+But, keep a consistent style. And generally avoiding making a list with only one point. Consider using an aside.
 
 ### Numerology
 
-When discussing number in exposition paragraphs, remember the English rule that numbers ten and below should be written out, and values over 1,000 should be written with comma separators. Since this can collide with discussing code, think of the use case to determine what you're talking about. Are you:
+When discussing numbers in exposition paragraphs, remember the English rule that numbers from zero to ten should be written out and values over 1,000 should be written with comma separators. Since this can collide with discussing code, think of the use case to determine what you're talking about. Are you:
 
 * discussing the number only in your exposition? Use the English form. 
 * discussing an integer value from your code? Put the digit `10` in a code snippet. 
 * discussing an abstract count that's relevant to your code? Do both, by presenting it as ten (10) or ten (`10`).
 
 
-### *exampla gratia* (e.g.) vs. *id est* (i.e.), vs. *et cetera* (etc.)
+### *exampla gratia* (e.g.) vs. *id est* (i.e.) vs. *et cetera* (etc.)
 
 * e.g. — Latin for "given example(s)" — points to a single example or a finite list of examples.
 * i.e. — Latin for "meaning" — points out a further explanation of the same idea.
@@ -159,11 +160,11 @@ Because of our appropriation of the word "learn" among our curriculum software, 
 * learn — verb — to gain knowledge or improve a skill. 
 * `learn` command, the — noun phrase (as, "the `learn` command") — the bash command that runs RSpec tests in Ruby labs. This should always be wrapped in a code snippet.
 * Learn.co — proper noun — the website and address of the curriculum tool available to students, faculty, and staff.
-* Learn App, the — proper noun — the Mac OS X app the integrates with testing and Learn.co.
+* Learn IDE, the — proper noun — the application that students use to work through the Learn.co curriculum.
 
 Usage:
 
-"You'll learn that the `learn` command integrates with your profile on Learn.co by uploading information through the Learn App."
+"You'll learn that the `learn` command integrates with your profile on Learn.co by uploading information through the Learn IDE."
 
 #### Learner vs. learner
 
@@ -192,7 +193,7 @@ renders as
 
 Image links:
 
-`![Image name that does not show](http://url)`
+`![Image name that does not show but is important for screen readers](http://url)`
 
 #### Reference Notation
 
