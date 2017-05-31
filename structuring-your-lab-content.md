@@ -68,7 +68,7 @@ A stretch lab is a lab that requires students to put some of the pieces together
 + Tests only cover the big picture and not each individual line of code they have to write
 + Provide less starter code.
 + Require a student to Google some information to complete the lab
-+ Incorporate passed a student has learned to pass all the tests
++ Incorporate past skills a student has learned to pass all the tests
 
 
 ## How to Approach Building A Lab
