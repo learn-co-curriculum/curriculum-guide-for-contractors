@@ -13,14 +13,14 @@ For this reason, our overall curriculum should include labs of varying degrees o
 
 ## Naming Convention
 
-Naming convention is helpful for instructors to at a glance know what a lab is covering and if it should be assigned. MLabs should be named to correspond with the Topics defined on Learn. It should at the very least begin with the name of the Topic. The last word should be lab (to distinguish it from a Readme) So for example:
+Naming convention is helpful for instructors to at a glance know what a lab is covering and if it should be assigned. MLabs should be named to correspond with the Topics defined on Learn. It should at the very least begin with the name of the Topic. The last word should be `lab` (to distinguish it from a Readme). For example:
 
 * "Rails-Blog-Nested-Resources-lab"
 * "SQL-Library-lab"
 * "Sinatra-Nested-Forms-lab"
 * "js-oo-task-list-lab"
 
-Also notice all the examples above end with `lab`. This helps us distinguish a lab from a lesson just by the repository name.
+Again, notice that all the examples above end with `lab`. This is important because it helps us distinguish a lab from a lesson just by the repository name.
 
 ## Content
 
