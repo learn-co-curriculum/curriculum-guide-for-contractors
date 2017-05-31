@@ -27,9 +27,9 @@ def greeting
 end
 ```
 
-*This method, when called, will print out to the terminal, the string `"Hi, Ruby programmer!"`.*
+*This method, when called, will print out to the terminal the string `"Hi, Ruby programmer!"`.*
 
-*As amazing as this method is, it's still pretty literal. It hard-codes, or directly specifies, name of the person we are greeting as `"Ruby programmer"`.* *If we wanted to build a method that can greet anyone, even Python programmers, we'd have to re-implement the majority of the original logic from `greeting`:*
+*As amazing as this method is, it's still pretty literal. It hard-codes, or directly specifies, the name of the person we are greeting as `"Ruby programmer"`. If we wanted to build a method that can greet anyone, even Python programmers, we'd have to re-implement the majority of the original logic from `#greeting`:*
 
 ```ruby
 def greeting_python
