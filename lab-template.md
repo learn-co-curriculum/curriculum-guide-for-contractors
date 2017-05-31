@@ -52,7 +52,7 @@ Instructions should be written in order of how to approach the lab. If you need 
 
 Note for rails labs moving forward we should be using [flatiron-rails](https://github.com/flatiron-school/flatiron-rails) to generate new Rails labs.
 
-###Fundamental Ruby
+### Fundamental Ruby
   File Structure:
   ```bash
   ├── README.md             # The guide to the this lab
@@ -65,7 +65,7 @@ Note for rails labs moving forward we should be using [flatiron-rails](https://g
       └── file_spec.rb      # The test itself, which is testing only file.rb
   ```
 
-###Command Line
+### Command Line
   File Structure:
   ```bash
   ├── README.md
@@ -81,7 +81,7 @@ Note for rails labs moving forward we should be using [flatiron-rails](https://g
       └── file_spec.rb
   ```
 
-###SQL
+### SQL
   File Structure:
   ```bash
   ├── README.md
@@ -97,7 +97,7 @@ Note for rails labs moving forward we should be using [flatiron-rails](https://g
       └── file_spec.rb
   ```
 
-###ActiveRecord
+### Active Record
   File Structure:
   ```bash
   ├── README.md
@@ -119,7 +119,7 @@ Note for rails labs moving forward we should be using [flatiron-rails](https://g
       └── file_spec.rb
   ```
 
-###Rake
+### Rake
   File Structure:
   ```bash
   ├── README.md
@@ -136,7 +136,7 @@ Note for rails labs moving forward we should be using [flatiron-rails](https://g
       └── spec_helper.rb
   ```
 
-###Rack
+### Rack
   File Structure:
   ```bash
   ├── README.md
@@ -159,7 +159,7 @@ Note for rails labs moving forward we should be using [flatiron-rails](https://g
           └── an_ok_request.rb
   ```
 
-###Sinatra Classic
+### Sinatra Classic
   File Structure:
   ```bash
   ├── README.md
@@ -179,7 +179,7 @@ Note for rails labs moving forward we should be using [flatiron-rails](https://g
   └── views
   ```
 
-###Sinatra MVC
+### Sinatra MVC
   File Structure:
   ```bash
   ├── README.md
@@ -206,7 +206,7 @@ Note for rails labs moving forward we should be using [flatiron-rails](https://g
       └── spec_helper.rb
   ```
 
-###Javascript
+### Javascript
   File Structure:
   ```bash
   ├── README.md
@@ -220,7 +220,7 @@ Note for rails labs moving forward we should be using [flatiron-rails](https://g
   └── spec
   ```
 
-###Front-end
+### Front-end
   File Structure:
   ```bash
   ├── README.md
