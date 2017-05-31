@@ -64,7 +64,7 @@ You can also think of learning objectives as the different steps that a student 
 ### How Many Learning Objectives Should I Have in My Lesson? 
 In general, have between three to five learning objectives. Avoid having more than eight objectives. If you find yourself with more, then consider either breaking up your lesson into multiple lessons.  
 
-###What If the Lesson Already Has the Learning Objectives Included?
+### What If the Lesson Already Has the Learning Objectives Included?
 Sometimes the lessons that you’re assigned to create might already have learning objectives included. Review the learning objectives and makes sure that they are indeed proper objectives and not simply an outline of the content. 
 
 If they are an outline of the content, then think about how you can transform them into proper learning objectives. This might mean, in some cases, that the information given needs to be broken up into multiple learning objectives. 
