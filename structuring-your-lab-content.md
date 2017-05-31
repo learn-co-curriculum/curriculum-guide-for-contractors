@@ -75,7 +75,7 @@ A stretch lab is a lab that requires students to put some of the pieces together
 
 Sometimes it can feel daunting to approach building a lab. There are many ways to do it, none more correct that the other.
 
-If you need a little help getting started, we recommend you start at the end and work your way forward. Start by build the solution you want your students to create in the lab, then build the tests that test the skills you want the lab to practice.From there, write your Readme with clearly stated objectives and instructions.
+If you need a little help getting started, we recommend you start at the end and work your way forward. Start by build the solution you want your students to create in the lab, then build the tests that test the skills you want the lab to practice. From there, write your Readme with clearly stated objectives and instructions.
 
 All work should be done on a `work-in-progress` branch and a `solution` branch.
 
