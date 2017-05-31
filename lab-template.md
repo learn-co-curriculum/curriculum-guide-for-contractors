@@ -1,12 +1,12 @@
 # Lab Outline:
 
-Labs are the category of repositories that include some form coding practice. This could be:
+Labs are the category of repositories that include some form of coding practice. This could be:
 
 * a **spec lab** that involves writing code to pass tests
 
-* a **Code-Along** that does not involve independent problem solving to pass tests, but rather gives heavy-handed direction to write specific lines of code. Code-Alongs however should also include tests and students are still expected to pass them even if you're telling them exactly how to do so. In many cases, a Code-Along can take the place of a Readme that would cover the same topic. 
+* a **Code-Along** that does not involve independent problem solving to pass tests, but rather gives heavy-handed direction to write specific lines of code. Code-Alongs, however, should also include tests and students are still expected to pass them even if you're telling them exactly how to do so. In many cases, a Code-Along can take the place of a Readme that would cover the same topic. 
 
-##Examples
+## Examples
 
 Spec Lab:
 
@@ -21,15 +21,13 @@ Code-Along:
 The title comes first. It should be the name of the repository.
 
 ### `##` Objectives
-Objectives Should immediately follow the title of the lab. Students should be able to readily find and define the skills they should be expected to practice or learn by completing the lab.
+Objectives should immediately follow the title of the lab. Students should be able to readily find and define the skills they should be expected to practice or learn by completing the lab.
 
 ### `##` Introduction
-
 The introduction should discuss the premise, or scenario of the lab. It should set the stage for the work the students will be doing.
 
 ### `##` Instructions
-
-Instructions should be a numbered list of steps to take when solving the lab. This section can include a leading paragraph if it's content does not fit into the numerical order (i.e. "After forking and cloning this lab, open the `*.xcworkspace` file.").
+Instructions should be a numbered list of steps to take when solving the lab. This section can include a leading paragraph if its content does not fit into the numerical order (i.e., "After forking and cloning this lab, open the `*.xcworkspace` file.").
 
 Instructions should be be specific. Students shouldn't have to make assumptions about what to do based on the instructions, they should immediately know. 
 
