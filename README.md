@@ -1,3 +1,11 @@
+[ct]: https://github.com/learn-co-curriculum/curriculum-team
+
+**Deprecation Warning**: As of 12/2017, this repo will be considered deprecated and the [curriculum-team][ct] repo should be 
+used. If something is only here and is not in the [curriculum-team][ct] wiki, please open an issue on [curriculum-team][ct] 
+and / or contact Steven Harms on Slack.
+
+----
+
 # Curriculum Guide for Contractors
 
 
